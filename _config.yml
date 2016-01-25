@@ -1,0 +1,28 @@
+name: 'Quincee creative '
+favicon: null
+layout_spectrum: 0.3042507157661021
+typography_spectrum: 0.7438274135347456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9111687194090337
+  lightness: 0.894920959835872
+  saturation: 0.9941763188689947
+  rhythmicContrast: 0.738806520588696
+purpose: []
